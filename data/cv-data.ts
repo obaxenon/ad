@@ -1,0 +1,152 @@
+export const cvData = {
+  summary:
+    "I specialize in human centered design for the web and beyond, forging solution driven designs that produce positive results. In turn helping small to medium businesses / enterprises acquire growth and further success. Over the course of my career, I have managed to achieve over 90% in client satisfaction scores and 35% increase in ROIs for my former clients through improved UX Strategies. My work expands across multiple sectors from education, tourism, ecommerce, retail, finance, insurance, marketing and real estate, to name a few.",
+
+  experience: [
+    {
+      title: "Product Designer",
+      company: "Self-Employed",
+      period: "February 2023 - Current",
+      responsibilities: [
+        "I collaborate with clients to understand their product design needs and objectives, creating intuitive and visually appealing interfaces and prototypes.",
+        "Designing and customizing user-centric websites and web applications, ensuring responsive and seamless experiences across all devices while applying UX/UI principles to optimize usability and interaction.",
+        "Working on enhancing product performance through efficient coding, integrating SEO best practices to improve discoverability, and incorporating third-party APIs and plugins to extend functionality, especially for eCommerce platforms like WooCommerce.",
+        "Conducting rigorous testing and iteration to identify and resolve design, interaction, or functionality issues, while providing ongoing maintenance, content management, and security updates.",
+      ],
+    },
+    {
+      title: "Independent UX Design Contractor",
+      company: "Dental Departures",
+      period: "Dec 2022 - Feb 2023",
+      responsibilities: [
+        "Worked with the project team to develop a clear project scopes / plan, aligning timelines and objectives to enhance platform performance and meet client goals.",
+        "Led the setup of the design system for the platform's online booking process, ensuring consistency and a streamlined user experience to drive more successful bookings.",
+        "Conducted user research using Google Analytics and HotJar to identify pain points and optimize the booking process, improving engagement and conversion rates.",
+        "Developed a tailored strategy to improve the booking experience for customers in regions like Turkey, Thailand, Los Angeles - USA, and Latin America, addressing regional differences.",
+      ],
+    },
+    {
+      title: "UX Designer",
+      company: "Falcorp Technologies",
+      period: "Jan 2022 - Aug 2022",
+      responsibilities: [
+        "Designed full user interfaces, from wireframes to final prototypes, for the internal Investments and Insurance client management system for Momentum Metropolitan Africa.",
+        "Re-designed a new back-end admin portal UI for Grant Thornton Financial Services with an improved interface and layout that's up to standard.",
+        "Collaborated with business analysts and product managers to gather and evaluate user requirements via Jira & Axure.",
+        "Shared knowledge with HR team in other departments to help improve recruitment processes for the organization through LinkedIn and paid ads.",
+        "Developed navigation buttons, search fields, and prototypes to showcase site functionality while following the Microsoft's material design guidelines for fonts, colors, and base design standards.",
+      ],
+    },
+    {
+      title: "Freelance Digital Designer",
+      company: "Alcott WebSpace",
+      period: "Jan 2017 - Dec 2021",
+      responsibilities: [
+        "Used what I had learned prior & led a variety of web projects across multiple sectors, including Tourism, Education, Tech Retail, Construction, and Industrial.",
+        "Successfully achieved over 30% ROI for clients through improved user experience design and strategic branding.",
+        "Managed the entire project lifecycle, from client acquisition and planning to research, design, development, and final launch of web applications and business profiles.",
+        "Conducted user research, testing, analysis, & UI designs for web projects & provided improved SEO Strategies for local businesses.",
+        "On other projects I would collaborate with key stakeholders and back-end developers to integrate front-end designs with back-end APIs, ensuring smooth platform functionality and successful project outcomes.",
+      ],
+    },
+    {
+      title: "Web Design Intern",
+      company: "Tea and Coffee Studio",
+      period: "Jan 2016 - Dec 2016",
+      responsibilities: [
+        "Documented project plans and design sprints. Designed UI layouts for client websites, and successfully launched an employee & cargo tracking app called Clock'n with the guidance of my former mentor.",
+        "Held mockup presentation sessions, which helped me gain more confidence in presenting project prototypes to clients.",
+      ],
+    },
+  ],
+
+  education: [
+    {
+      institution: "CTU Training Solutions",
+      year: "2016",
+      qualifications: [
+        "Web Development Certificate",
+        "CIW Certified Associate in Web Authoring",
+        "Adobe Certified Associate in Media and Design",
+        "Systems Software Development Certificate",
+      ],
+    },
+    {
+      institution: "Richfield Graduate Institute of Technology",
+      year: "2017",
+      qualifications: ["Higher Certificate in Information Technology"],
+    },
+    {
+      institution: "Interaction Design Foundation (IxDF)",
+      year: "",
+      qualifications: ["Professional Membership"],
+    },
+    {
+      institution: "LinkedIn Learning",
+      year: "",
+      qualifications: [
+        "Sustainable UX Design - (Short Course)",
+        "Building Critical Thinking Skills in the Age of AI",
+        "UX for AI: Design Practices for AI Developers",
+        "Using Style Guides to Bridge Design and Development",
+      ],
+    },
+  ],
+
+  skills: {
+    hard: [
+      "UX Research",
+      "Agile & Lean UX",
+      "Information Architecture",
+      "Wireframing",
+      "User Interface Design",
+      "Color Theory",
+      "Branding",
+      "Prototyping",
+      "Motion Design / Animation",
+      "Usability Testing",
+      "A/B Testing",
+      "Visual Design - (Graphics)",
+      "Front-end Development",
+      "Project Management",
+      "Copyrighting",
+    ],
+    soft: [
+      "Leadership",
+      "Interpersonal Communication",
+      "Empathy",
+      "Collaboration",
+      "Teamwork",
+      "Time Management",
+      "Self-Motivated",
+      "Discipline",
+      "Organizational Skills",
+      "Internet Of Things",
+    ],
+    tools: [
+      "Figma (Software)",
+      "Adobe Creative Cloud Suite",
+      "Sketch (iOS)",
+      "InVision",
+      "Zeplin",
+      "Jira / Axure",
+      "Slack",
+      "HotJar - (Heat Mapping)",
+      "Google Analytics",
+      "Typeforms",
+      "HTML5 & CSS",
+      "JavaScript",
+      "PHP - (Basic)",
+      "WordPress CMS",
+      "Elementor",
+      "WebFlow",
+      "Visual Studio Code",
+      "Node.js – (Basic)",
+      "Dotnet – (Basic)",
+      "GitHub & GitLab",
+      "Amazon Web Services",
+      "Oracle Cloud",
+    ],
+  },
+}
+
